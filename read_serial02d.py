@@ -46,5 +46,5 @@ while True:
     print ('exiting')
     break
 ser.flush()
-ser.close()
+ser.close()  #comment
 f.close()
